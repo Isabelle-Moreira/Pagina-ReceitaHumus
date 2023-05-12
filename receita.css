@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: #e9eba3;
+
+}
+#descricao{
+    margin-top: 2%;
+    font-weight: bold;
+}
+#texto-interno{
+    margin-left: 3%;
+    font-family: 'Poiret One', cursive;
+    font-weight: 800;
+}
+#foto-comida{
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+#foto-comida a {
+    text-decoration: none;
+    color:#791328;
+    display: block;
+}
+
+header{
+    background-color: #791328;
+    height: 80px;
+    text-align: center;
+    color: #e9eba3;
+    padding-top:1%;
+    font-family:'Poiret One', cursive; 
+}
+header img{
+   width: 3%;
+   display: inline-block;
+}
+header h1 {
+    margin:0;
+    display: inline-block;
+}
